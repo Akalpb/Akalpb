@@ -7,7 +7,7 @@
 <div align="center">
 <!-- <a href="https://discord.com/users/1212426397855911976" > -->
   <a href="https://egirl.ing/" >
-   <img src="https://lanyard.kyrie25.me/api/1212426397855911976?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"  />
+<img src="https://lanyard.kyrie25.me/api/1212426397855911976?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"  />
   </a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=zhenye-na&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
