@@ -4,6 +4,6 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ctjraka?label=Follow)](https://twitter.com/intent/follow?screen_name=ctjraka)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/:1212426397855911976)](https://discord.com/users/:1212426397855911976)
+[![Discord Presence](https://lanyard.kyrie25.me/api/1212426397855911976)](https://discord.com/users/1212426397855911976)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=zhenye-na&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
