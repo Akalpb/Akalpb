@@ -3,7 +3,7 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/ctjraka?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ctjraka?label=Follow)](https://twitter.com/intent/follow?screen_name=ctjraka)
 
 
 🕑︎ Time Zone: Asia/Dubai
