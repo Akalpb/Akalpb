@@ -6,11 +6,4 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/ctjraka?label=Follow)](https://twitter.com/intent/follow?screen_name=ctjraka)
 
 
-🕑︎ Time Zone: Asia/Dubai
-
-💬 Programming Languages: 
-TypeScript               7 hrs 37 mins       █████████████░░░░░░░░░░░░   52.75 % 
-Python                   2 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-JSON                     1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-JavaScript               1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-textmate                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+[![trophy](https://github-profile-trophy.vercel.app/?username=zhenye-na&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
