@@ -1,7 +1,4 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/akalpb/akalpb/master/name.svg" alt="Akalpb" />
-</h1>
-
+<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Salut ! bievenue chez aka <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2> </a>
 </em></p>
 
