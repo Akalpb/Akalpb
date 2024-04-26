@@ -1,5 +1,5 @@
 <div id="SealedSaucer" align="center">
-  <h3> Hi there, I'm <a href="https://phantom.fr.to">Phantom</a> 👋 </h3>
+  <h3> Hi there, I'm <a href="https://t.me/ctjraka">Aka</a> 👋 </h3>
   <br>
   
 [![Discord Presence](https://lanyard.kyrie25.me/api/1212426397855911976)](https://discord.com/users/1212426397855911976)
