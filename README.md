@@ -19,8 +19,6 @@
   &nbsp;
   <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" height="26" width="26"></a>
   &nbsp;
-  <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" height="26" width="26"></a>
-  &nbsp;
   <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" height="26" width="26"></a>
   &nbsp;
   <a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" height="26" width="26"></a>
