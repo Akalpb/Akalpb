@@ -3,11 +3,8 @@
   <br>
   
 [![Discord Presence](https://lanyard.kyrie25.me/api/1212426397855911976)](https://discord.com/users/1212426397855911976)
----
-https://lanyard.kyrie25.me/api/1212426397855911976?imgStyle=square&imgBorderRadius=15px
 
-<h3>Languages and Tools</h3>
-
+<h3>Languages</h3>
 <div>
   <a href="https://python.org"><img src="https://skillicons.dev/icons?i=python" height="26" width="26"></a>
   &nbsp;
