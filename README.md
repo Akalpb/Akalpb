@@ -1,7 +1,7 @@
 <div id="SealedSaucer" align="center">
   <h3> Hi there, I'm <a href="https://phantom.fr.to">Phantom</a> 👋 </h3>
   <br>
-  <a href="https://discord.com/users/243838319291662337"><img height="80px" src="https://discord.c99.nl/widget/theme-4/243838319291662337.png"/></a>
+  <a href="https://discord.com/users/1212426397855911976"><img height="80px" src="https://discord.c99.nl/widget/theme-4/243838319291662337.png"/></a>
   <br><br>
   <a href="https://phantom.fr.to"><img src="https://img.shields.io/website?label=phantom.fr.to&style=for-the-badge&url=https%3A%2F%2Fphantom.fr.to"></a>
   <a href="https://phantom.sellix.io"><img src="https://img.shields.io/badge/SELLIX-PHANTOM.SELLIX.IO-5e40e4?style=for-the-badge"></a>
