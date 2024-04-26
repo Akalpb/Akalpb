@@ -1,25 +1,13 @@
 <div id="SealedSaucer" align="center">
   <h3> Hi there, I'm <a href="https://phantom.fr.to">Phantom</a> 👋 </h3>
   <br>
-  <a href="https://discord.com/users/1212426397855911976"><img height="80px" src="https://discord.c99.nl/widget/theme-4/243838319291662337.png"/></a>
-  <br><br>
-  <a href="https://phantom.fr.to"><img src="https://img.shields.io/website?label=phantom.fr.to&style=for-the-badge&url=https%3A%2F%2Fphantom.fr.to"></a>
-  <a href="https://phantom.sellix.io"><img src="https://img.shields.io/badge/SELLIX-PHANTOM.SELLIX.IO-5e40e4?style=for-the-badge"></a>
-  <a href="https://phantom.fr.to/verify"><img src="https://img.shields.io/badge/contact-click me-05babf?style=for-the-badge"></a>
+  
+<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Salut ! bievenue chez aka <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2> </a>
+</em></p>
 
 ---
 
-<h3>Socials</h3>
-
-<div>
-    <a href="https://phantom.fr.to"><img src="https://i.imgur.com/HcY0gIm.png" height="25" width="25"></a>
-    &nbsp;
-    <a href="https://youtube.com/@SealedSaucer"><img src="https://i.imgur.com/WLd5nyq.png" height="25" width="25"></a>
-    &nbsp;
-    <a href="https://phantom.fr.to/verify"><img src="https://i.imgur.com/CZU39q2.png" height="25" width="25"></a>
-    &nbsp;
-    <a href="https://instagram.com/SealedSaucer"><img src="https://i.imgur.com/SCTr4il.png" height="25" width="25"></a>
-</div>
 
 <h3>Languages and Tools</h3>
 
