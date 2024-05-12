@@ -2,7 +2,7 @@
   <h3> Hey, I'm <a href="https://t.me/ctjraka">Aka</a> 👋 </h3>
   <br>
   
-[![Discord Presence](https://lanyard.kyrie25.me/api/1212426397855911976)](https://discord.com/users/1212426397855911976)
+[![Discord Presence](https://lanyard.kyrie25.me/api/571974950823395328)](https://discord.com/users/571974950823395328)
 
 <h3>Languages</h3>
 <div>
